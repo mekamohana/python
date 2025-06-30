@@ -1,0 +1,21 @@
+The python decision making statements are used in order to execute a block of code .
+they are of "3" types :
+1. decision making statements
+2. looping/interactive statements
+3. jumping /transfer statements
+
+The python decision are used in order to execute a particular conditions
+they are:
+1. if-block
+2.if-else
+3. elif
+4. nested if
+5. shorted if else
+
+Defintaions:
+
+if : in "if", the condition should be always true
+if condition : block of code
+intentation : block of space
+ifelse : if the "if" block fails
+elif : for giving a second chance (ex:"if the pasword is wrong then we get a invalid then we choose second time)
